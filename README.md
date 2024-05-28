@@ -42,5 +42,10 @@ The UI is built using React.js and Material-UI, hosted and managed seamlessly wi
 
 By leveraging open-source technologies and community contributions, I aim to continuously improve and enhance the UI to provide the best possible experience for users.
 
+## Conversation Flow
+
+![Conversation Flow](src/IPL2019bot%20conversation%20flow.jpg)
+
+Here's an overview of the conversation flow in IPL2019_bot. This flowchart illustrates how user inputs are processed and the corresponding bot actions triggered based on the intents recognized by AWS Lex.
 
 
