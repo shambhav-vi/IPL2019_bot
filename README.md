@@ -2,6 +2,12 @@
 
 IPL2019_bot is a lightweight bot project developed for the Indian Premier League (IPL) 2019 season. It provides updates and information about matches, teams, and players.
 
+![Screenshot](src/Screenshot%201.png)
+
+![Screenshot](src/Screenshot%202.png)
+
+These are the screenshots demonstrating the bot.
+
 ## Lambda Function
 
 This project includes a Lambda function that powers the bot's backend functionality. The function is responsible for retrieving data of IPL 2019, processing it, and responding to user queries.
